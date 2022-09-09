@@ -9,6 +9,8 @@
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <vector>
+#include <array>
+
 #include <algorithm>
 
 #include <stdio.h>
